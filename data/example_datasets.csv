@@ -1,0 +1,89 @@
+scenario,group,subject_id,value
+tissue_size,Control,C01,85.7
+tissue_size,Control,C02,102.7
+tissue_size,Control,C03,93.8
+tissue_size,Control,C04,117.7
+tissue_size,Control,C05,87.9
+tissue_size,Control,C06,107.7
+tissue_size,Control,C07,99.4
+tissue_size,Control,C08,106.7
+tissue_size,Control,C09,104.1
+tissue_size,Control,C10,90.2
+tissue_size,Control,C11,87.5
+tissue_size,Control,C12,107.3
+tissue_size,Reduced gene activity,R01,99.4
+tissue_size,Reduced gene activity,R02,89.0
+tissue_size,Reduced gene activity,R03,87.6
+tissue_size,Reduced gene activity,R04,79.4
+tissue_size,Reduced gene activity,R05,86.3
+tissue_size,Reduced gene activity,R06,51.3
+tissue_size,Reduced gene activity,R07,95.5
+tissue_size,Reduced gene activity,R08,107.1
+tissue_size,Reduced gene activity,R09,75.6
+tissue_size,Reduced gene activity,R10,94.1
+tissue_size,Reduced gene activity,R11,94.9
+tissue_size,Reduced gene activity,R12,86.9
+cell_growth,Condition A,A01,102.9
+cell_growth,Condition A,A02,112.0
+cell_growth,Condition A,A03,110.4
+cell_growth,Condition A,A04,104.0
+cell_growth,Condition A,A05,94.7
+cell_growth,Condition A,A06,103.1
+cell_growth,Condition A,A07,99.2
+cell_growth,Condition A,A08,79.7
+cell_growth,Condition B,B01,117.3
+cell_growth,Condition B,B02,136.8
+cell_growth,Condition B,B03,132.8
+cell_growth,Condition B,B04,143.1
+cell_growth,Condition B,B05,123.8
+cell_growth,Condition B,B06,137.5
+cell_growth,Condition B,B07,135.3
+cell_growth,Condition B,B08,120.0
+paired_feature,24 h,S01,193.8
+paired_feature,48 h,S01,283.3
+paired_feature,24 h,S02,219.8
+paired_feature,48 h,S02,310.9
+paired_feature,24 h,S03,189.8
+paired_feature,48 h,S03,256.6
+paired_feature,24 h,S04,215.0
+paired_feature,48 h,S04,288.9
+paired_feature,24 h,S05,171.4
+paired_feature,48 h,S05,262.2
+paired_feature,24 h,S06,196.2
+paired_feature,48 h,S06,253.7
+paired_feature,24 h,S07,187.9
+paired_feature,48 h,S07,353.8
+paired_feature,24 h,S08,171.0
+paired_feature,48 h,S08,268.6
+paired_feature,24 h,S09,142.0
+paired_feature,48 h,S09,229.0
+paired_feature,24 h,S10,192.5
+paired_feature,48 h,S10,296.7
+zebrafish_case,Control,C01,87.6
+zebrafish_case,Control,C02,120.2
+zebrafish_case,Control,C03,111.2
+zebrafish_case,Control,C04,99.9
+zebrafish_case,Control,C05,107.4
+zebrafish_case,Control,C06,113.5
+zebrafish_case,Control,C07,105.8
+zebrafish_case,Control,C08,93.1
+zebrafish_case,Control,C09,104.1
+zebrafish_case,Control,C10,114.7
+zebrafish_case,Control,C11,115.7
+zebrafish_case,Control,C12,111.1
+zebrafish_case,Control,C13,105.7
+zebrafish_case,Control,C14,100.2
+zebrafish_case,Reduced gene activity,G01,76.3
+zebrafish_case,Reduced gene activity,G02,67.5
+zebrafish_case,Reduced gene activity,G03,102.0
+zebrafish_case,Reduced gene activity,G04,92.4
+zebrafish_case,Reduced gene activity,G05,81.0
+zebrafish_case,Reduced gene activity,G06,95.5
+zebrafish_case,Reduced gene activity,G07,78.5
+zebrafish_case,Reduced gene activity,G08,97.0
+zebrafish_case,Reduced gene activity,G09,45.5
+zebrafish_case,Reduced gene activity,G10,94.6
+zebrafish_case,Reduced gene activity,G11,81.6
+zebrafish_case,Reduced gene activity,G12,85.1
+zebrafish_case,Reduced gene activity,G13,77.6
+zebrafish_case,Reduced gene activity,G14,87.2
